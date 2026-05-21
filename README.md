@@ -4,7 +4,8 @@
 SkillSwap is an interactive platform where individuals can offer, learn, and trade skills within their local area. Whether it's guitar lessons, language exchange, coding help, or yoga training — users can browse listings, book sessions, and connect with local skill providers.
 
 ## Live URL
-🌐 [https://elegant-kheer-58aeb0.netlify.app](https://elegant-kheer-58aeb0.netlify.app)
+## Live URL
+🌐 [https://serene-sable-9e4f87.netlify.app](https://serene-sable-9e4f87.netlify.app)
 
 ## Key Features
 - 🔐 Firebase Authentication (Email/Password & Google Login)
