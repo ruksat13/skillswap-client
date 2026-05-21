@@ -7,6 +7,7 @@ import Register from "./pages/Register/Register";
 import SkillDetails from "./pages/SkillDetails/SkillDetails";
 import MyProfile from "./pages/MyProfile/MyProfile";
 import ForgotPassword from "./pages/ForgotPassword/ForgotPassword";
+import NotFound from "./pages/NotFound/NotFound";
 import PrivateRoute from "./routes/PrivateRoute";
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
               </PrivateRoute>
             }
           />
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
       <Footer />
