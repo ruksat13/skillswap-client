@@ -1,6 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* git add .
-git commit -m "fix: add Firebase authorized domain for Netlify deployment"
-git push origin main */
