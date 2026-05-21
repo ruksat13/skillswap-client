@@ -1,0 +1,98 @@
+[
+    {
+        "skillId": 1,
+        "skillName": "Beginner Guitar Lessons",
+        "providerName": "Alex Martin",
+        "providerEmail": "alex@skillswap.com",
+        "price": 20,
+        "rating": 4.8,
+        "slotsAvailable": 3,
+        "description": "Acoustic guitar classes for complete beginners. Learn chords, strumming patterns, and your first songs in a fun and relaxed environment.",
+        "image": "https://i.ibb.co/placeholder1/guitar.jpg",
+        "category": "Music"
+    },
+    {
+        "skillId": 2,
+        "skillName": "Spoken English Practice",
+        "providerName": "Sara Hossain",
+        "providerEmail": "sara@skillswap.com",
+        "price": 10,
+        "rating": 4.6,
+        "slotsAvailable": 5,
+        "description": "Conversational English sessions for non-native speakers. Improve fluency, pronunciation, and confidence in daily communication.",
+        "image": "https://i.ibb.co/placeholder2/english.jpg",
+        "category": "Language"
+    },
+    {
+        "skillId": 3,
+        "skillName": "Python for Beginners",
+        "providerName": "Rahul Dev",
+        "providerEmail": "rahul@skillswap.com",
+        "price": 25,
+        "rating": 4.9,
+        "slotsAvailable": 4,
+        "description": "Learn Python programming from scratch. Covers variables, loops, functions, and basic projects to kickstart your coding journey.",
+        "image": "https://i.ibb.co/placeholder3/python.jpg",
+        "category": "Technology"
+    },
+    {
+        "skillId": 4,
+        "skillName": "Yoga & Mindfulness",
+        "providerName": "Priya Sharma",
+        "providerEmail": "priya@skillswap.com",
+        "price": 15,
+        "rating": 4.7,
+        "slotsAvailable": 6,
+        "description": "Morning yoga sessions combining asanas and mindfulness techniques. Suitable for all fitness levels seeking balance and wellness.",
+        "image": "https://i.ibb.co/placeholder4/yoga.jpg",
+        "category": "Health"
+    },
+    {
+        "skillId": 5,
+        "skillName": "French Language Exchange",
+        "providerName": "Marie Dupont",
+        "providerEmail": "marie@skillswap.com",
+        "price": 12,
+        "rating": 4.5,
+        "slotsAvailable": 3,
+        "description": "Interactive French language sessions for beginners and intermediate learners. Focus on speaking, listening, and everyday vocabulary.",
+        "image": "https://i.ibb.co/placeholder5/french.jpg",
+        "category": "Language"
+    },
+    {
+        "skillId": 6,
+        "skillName": "Photography Basics",
+        "providerName": "James Lee",
+        "providerEmail": "james@skillswap.com",
+        "price": 30,
+        "rating": 4.8,
+        "slotsAvailable": 2,
+        "description": "Learn the fundamentals of photography including composition, lighting, and camera settings. Hands-on practice with real shooting sessions.",
+        "image": "https://i.ibb.co/placeholder6/photo.jpg",
+        "category": "Arts"
+    },
+    {
+        "skillId": 7,
+        "skillName": "Cooking Masterclass",
+        "providerName": "Fatima Khan",
+        "providerEmail": "fatima@skillswap.com",
+        "price": 18,
+        "rating": 4.9,
+        "slotsAvailable": 4,
+        "description": "Learn to cook authentic recipes from scratch. Sessions cover knife skills, flavor balancing, and preparing full meals efficiently.",
+        "image": "https://i.ibb.co/placeholder7/cooking.jpg",
+        "category": "Lifestyle"
+    },
+    {
+        "skillId": 8,
+        "skillName": "Web Design with Figma",
+        "providerName": "Nadia Islam",
+        "providerEmail": "nadia@skillswap.com",
+        "price": 22,
+        "rating": 4.7,
+        "slotsAvailable": 5,
+        "description": "Master UI/UX design using Figma. Learn wireframing, prototyping, and design systems to build stunning web interfaces.",
+        "image": "https://i.ibb.co/placeholder8/figma.jpg",
+        "category": "Technology"
+    }
+]
