@@ -69,6 +69,25 @@ const Home = () => {
                 </Swiper>
             </section>
 
+            {/* Stats Section */}
+            <section className="bg-emerald-600 py-12">
+                <div className="max-w-7xl mx-auto px-4">
+                    <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center text-white">
+                        {[
+                            { number: "500+", label: "Skills Listed" },
+                            { number: "1.2K+", label: "Happy Learners" },
+                            { number: "300+", label: "Expert Providers" },
+                            { number: "50+", label: "Categories" },
+                        ].map((stat, i) => (
+                            <div key={i} data-aos="zoom-in" data-aos-delay={i * 100}>
+                                <p className="text-4xl font-bold">{stat.number}</p>
+                                <p className="text-emerald-100 text-sm mt-1">{stat.label}</p>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            </section>
+
             {/* Popular Skills */}
             <section className="max-w-7xl mx-auto px-4 py-16">
                 <div className="text-center mb-10" data-aos="fade-up">
